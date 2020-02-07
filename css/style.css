@@ -2,14 +2,14 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 header{
-    background-color: red;
-    border: 15px yellow;
+    background-color: green;
+    border: 15px red;
 }
 main{
-    border: 15px dotted yellow;
+    border: 15px dotted red;
     background-color: green;
 }
 footer{
     border: 15px solid green;
-    background-color: yellow;
+    background-color: red;
 }
