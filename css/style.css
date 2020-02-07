@@ -7,7 +7,9 @@ header{
 }
 main{
     border: 15px dotted yellow;
+    background-color: green;
 }
 footer{
     border: 15px solid green;
+    background-color: yellow;
 }
